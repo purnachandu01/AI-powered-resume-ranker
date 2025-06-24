@@ -1,0 +1,55 @@
+{
+  "Software Developer": "Python, Java, C++, software engineering, debugging, Git, algorithms, data structures",
+  "Frontend Developer": "HTML, CSS, JavaScript, React, UI/UX design, accessibility, responsive layout",
+  "Backend Developer": "Node.js, Django, Flask, SQL, REST APIs, server architecture, authentication",
+  "Full Stack Developer": "frontend, backend, database, APIs, deployment, Git, web development",
+  "Mobile App Developer": "Kotlin, Swift, Flutter, iOS, Android, mobile UI/UX, APIs, Firebase",
+  "DevOps Engineer": "CI/CD, Jenkins, Docker, Kubernetes, AWS, monitoring, scripting, automation",
+  "Embedded Systems Engineer": "C, microcontrollers, RTOS, ARM, low-level programming, embedded C++",
+
+  "Machine Learning Engineer": "Python, machine learning, scikit-learn, TensorFlow, PyTorch, data preprocessing, model evaluation",
+  "Data Scientist": "Python, machine learning, SQL, data analysis, TensorFlow, data visualization, statistics, pipelines",
+  "Data Analyst": "SQL, Excel, Tableau, data cleaning, analysis, visualization, dashboards",
+  "NLP Engineer": "spaCy, NLTK, transformers, text processing, embeddings, sentiment analysis",
+  "Computer Vision Engineer": "OpenCV, image processing, deep learning, object detection, classification",
+  "AI Research Scientist": "research, neural networks, papers, innovation, experimentation, publications",
+
+  "Web Developer": "HTML, CSS, JavaScript, React, Node.js, APIs, Git, responsive design",
+  "Cloud Engineer": "AWS, Azure, GCP, DevOps, cloud infrastructure, scalability, serverless",
+  "Site Reliability Engineer (SRE)": "monitoring, incident response, automation, reliability engineering",
+  "Cloud Architect": "architecture, scalability, cloud services, performance, cost optimization",
+  "BaaS Engineer": "Firebase, backend services, API integration, real-time databases",
+
+  "Cybersecurity Analyst": "threat analysis, risk assessment, firewall, incident response, SIEM",
+  "Penetration Tester": "vulnerability assessment, ethical hacking, Kali Linux, Metasploit",
+  "Network Engineer": "TCP/IP, LAN/WAN, routing, switching, network protocols, firewalls",
+  "SOC Analyst": "SIEM tools, incident response, threat detection, log analysis",
+  "Ethical Hacker": "penetration testing, exploits, scripting, red teaming",
+
+  "System Administrator": "Linux, Windows Server, system maintenance, backup, user management",
+  "Linux Engineer": "Bash, Linux kernel, automation, system configuration",
+  "Database Administrator (DBA)": "MySQL, PostgreSQL, database design, backup, performance tuning",
+  "IT Support Specialist": "troubleshooting, helpdesk, hardware, software, technical support",
+
+  "Game Developer": "Unity, C#, game mechanics, graphics, physics engines, level design",
+  "Unity Developer": "Unity3D, C#, animations, scripting, game loops",
+  "AR/VR Engineer": "augmented reality, virtual reality, Unity, 3D modeling, spatial computing",
+  "Graphics Programmer": "OpenGL, DirectX, shaders, rendering pipeline, graphics optimization",
+
+  "Product Manager": "communication, user research, project management, JIRA, Figma, Agile, roadmaps",
+  "Technical Program Manager": "cross-functional leadership, roadmapping, status reporting, engineering coordination",
+  "Business Analyst": "data analysis, SQL, Excel, reporting, requirements gathering, stakeholder communication, dashboards",
+  "IT Consultant": "solution architecture, client requirements, IT strategies, implementation support",
+  "Entrepreneur/Startup Founder": "fundraising, MVP development, marketing, vision, product-market fit",
+
+  "Research Assistant": "research, data collection, literature review, reporting",
+  "Teaching Assistant": "mentoring, grading, instructional support, lab assistance",
+  "Academic Researcher": "experimentation, writing, publishing, collaboration, innovation",
+  "Ph.D. Student / Research Scholar": "proposal writing, thesis, conference presentations, scholarly research",
+
+  "Blockchain Developer": "Solidity, smart contracts, Ethereum, DApps, blockchain protocols",
+  "Quantum Computing Researcher": "quantum algorithms, Qiskit, IBM Q, quantum gates",
+  "IoT Developer": "IoT protocols, device communication, microcontrollers, cloud integration",
+  "Edge Computing Engineer": "low-latency systems, real-time processing, edge nodes",
+  "Robotics Engineer": "robot kinematics, ROS, automation, sensors, actuators"
+}
